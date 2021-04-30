@@ -2,9 +2,7 @@
 * This repository contains my review of the paper [What Does BERT Look At? An Analysis of BERT's Attention](https://arxiv.org/abs/1906.04341).
 * Further, using the codebase referenced below, I have performed analysis on a sample dataset consisting of restaurant reviews, and have listed my observations.   
 
-
-{google_docs}https://docs.google.com/presentation/d/e/2PACX-1vT1-sA3M02HwCQoEtzU0svKuqJUqwJ5Xuu-aCajRc8ZAGCrcDBge70MW7rdiv-Q7jLaPcFrTzNz7wm_/pub?start=false&loop=false&delayms=3000{/google_docs}
-
+### [Paper Review and Analysis](https://docs.google.com/presentation/d/e/2PACX-1vT1-sA3M02HwCQoEtzU0svKuqJUqwJ5Xuu-aCajRc8ZAGCrcDBge70MW7rdiv-Q7jLaPcFrTzNz7wm_/pub?start=false&loop=false&delayms=3000)
 
 
 
