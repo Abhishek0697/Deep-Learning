@@ -3,7 +3,11 @@
 * Further, using the codebase referenced below, I have performed analysis on a sample dataset consisting of restaurant reviews, and have listed my observations.   
 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT1-sA3M02HwCQoEtzU0svKuqJUqwJ5Xuu-aCajRc8ZAGCrcDBge70MW7rdiv-Q7jLaPcFrTzNz7wm_/embed?start=false&loop=true&delayms=15000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+{google_docs}https://docs.google.com/presentation/d/e/2PACX-1vT1-sA3M02HwCQoEtzU0svKuqJUqwJ5Xuu-aCajRc8ZAGCrcDBge70MW7rdiv-Q7jLaPcFrTzNz7wm_/pub?start=false&loop=false&delayms=3000{/google_docs}
+
+
+
+
 
 ### References
 1. https://arxiv.org/abs/1906.04341
